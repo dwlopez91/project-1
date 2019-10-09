@@ -1,1 +1,23 @@
 Project 1 Proposal 
+
+IDEA NUMBER 1
+Looking at truck routes and air quality 
+
+IDEA NUMBER 2
+air quality, traffic, health (mental, physical etc)
+
+api for air quality 
+https://breezometer.com/air-quality-map/city/minneapolis?lat=44.98&lon=-93.28
+^ I think that one will work
+
+api for health 
+https://www.programmableweb.com/category/health/api
+
+api for traffic 
+https://developer.here.com/documentation/traffic/topics/what-is.html
+
+IDEA NUMBER 3
+biking, demographics of neighborhood where bikes are, and any other API 
+https://gis-hennepin.opendata.arcgis.com/search?hasApi=true&tags=transportation
+
+
