@@ -1,23 +1,12 @@
 Project 1 Proposal 
 
-IDEA NUMBER 1
-Looking at truck routes and air quality 
+We will be looking at historical data for earthquakes and air quality using APIs from blank and blank. 
+We hypothesize that there will be a negative impact on air quality immediately following an earthquake. 
+To scale our project, we will only be using an air quality API and using the time stamp of large earthq-
+uakes (determiend 6+) that we've selected from https://earthquake.usgs.gov/earthquakes/browse/. In order 
+to analyze our data, we need to know the Epicenter/Location, Magnitude, and Time Stamp and run against 
+the air quality  in the loacation before, during, and after the earthquake.  
 
-IDEA NUMBER 2
-air quality, traffic, health (mental, physical etc)
-
-api for air quality 
-https://breezometer.com/air-quality-map/city/minneapolis?lat=44.98&lon=-93.28
-^ I think that one will work
-
-api for health 
-https://www.programmableweb.com/category/health/api
-
-api for traffic 
-https://developer.here.com/documentation/traffic/topics/what-is.html
-
-IDEA NUMBER 3
-biking, demographics of neighborhood where bikes are, and any other API 
-https://gis-hennepin.opendata.arcgis.com/search?hasApi=true&tags=transportation
-
+Parameters to look into from the EPA: our plan is to run a report on a 3-4 earthquakes and pick out the 
+most dramatic changes that we see and base any anlysis after that on those parameters. 
 
