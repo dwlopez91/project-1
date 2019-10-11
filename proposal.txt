@@ -1,12 +1,16 @@
 Project 1 Proposal 
 
-We will be looking at historical data for earthquakes and air quality using APIs from blank and blank. 
-We hypothesize that there will be a negative impact on air quality immediately following an earthquake. 
-To scale our project, we will only be using an air quality API and using the time stamp of large earthq-
-uakes (determiend 6+) that we've selected from https://earthquake.usgs.gov/earthquakes/browse/. In order 
-to analyze our data, we need to know the Epicenter/Location, Magnitude, and Time Stamp and run against 
-the air quality  in the loacation before, during, and after the earthquake.  
+We will be looking at historical data for earthquakes and air quality using APIs from https://aqs.epa.gov/
+aqsweb/documents/about_aqs_data.html#_time. We hypothesize that there will be a "negative" impact on 
+air quality immediately following an earthquake, i.e. an increase in SO2 and NOx. To scale our project, we 
+will only be using an air quality API and using the time stamp of 2 large earthquakes that we've selected 
+from https://earthquake.usgs.gov/earthquakes/browse/. In order to analyze our data, we need to know the 
+Epicenter/Location, Magnitude, and Time Stamp and run against the air quality, specifically SO2 and NOx 
+(possibly other gases if we see any other trends), in the location before, during, and after the earthquake. 
+We will use a geojson to create a box (latitude and longtidue) around the epicenter. 
 
-Parameters to look into from the EPA: our plan is to run a report on a 3-4 earthquakes and pick out the 
-most dramatic changes that we see and base any anlysis after that on those parameters. 
+Using matplotlib, and written in jupyter notebook, we will visualize our data using line graphs, scatter plots. 
+As a bonus we will try to create a geolocation "heat map" that shows air quality post-earthquake. 
+
+
 
