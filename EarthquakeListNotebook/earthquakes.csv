@@ -1,0 +1,80 @@
+,Identifier,Location,Magnitude,Date,Time,Time Zone,Significance,Lon,Lat,Depth,URL
+0,ci38457687,"15km ESE of Little Lake, CA",5.5,20190706,03:47:53,-480.0,488,-117.7495,35.9011667,5.04,https://earthquake.usgs.gov/earthquakes/eventpage/ci38457687
+1,ci38457511,2019 Ridgecrest Earthquake Sequence,7.1,20190706,03:19:53,-480.0,1596,-117.5993333,35.7695,8.0,https://earthquake.usgs.gov/earthquakes/eventpage/ci38457511
+2,ci38443183,"11km SW of Searles Valley, CA",6.4,20190704,17:33:49,-480.0,1460,-117.5038333,35.7053333,10.5,https://earthquake.usgs.gov/earthquakes/eventpage/ci38443183
+3,nc73201181,"6km SSW of Petrolia, CA",5.58,20190623,03:53:02,-480.0,1139,-124.3003333,40.2735,9.44,https://earthquake.usgs.gov/earthquakes/eventpage/nc73201181
+5,us10009757,"11km SE of Lincoln, Montana",5.8,20170706,06:30:17,-420.0,1278,-112.5753,46.8811,12.18,https://earthquake.usgs.gov/earthquakes/eventpage/us10009757
+7,nn00570744,"28km SW of Hawthorne, Nevada",5.5,20161228,09:13:47,-480.0,859,-118.8957,38.3777,8.8,https://earthquake.usgs.gov/earthquakes/eventpage/nn00570744
+8,nn00570710,"26km SW of Hawthorne, Nevada",5.6,20161228,08:22:12,-480.0,1052,-118.8972,38.3904,12.2,https://earthquake.usgs.gov/earthquakes/eventpage/nn00570710
+9,nn00570709,"27km SW of Hawthorne, Nevada",5.6,20161228,08:18:00,-480.0,1052,-118.8989,38.3755,11.3,https://earthquake.usgs.gov/earthquakes/eventpage/nn00570709
+10,us10006jxs,"14km NW of Pawnee, Oklahoma",5.8,20160903,12:02:44,-300.0,1308,-96.9291,36.4251,5.557,https://earthquake.usgs.gov/earthquakes/eventpage/us10006jxs
+12,nc72387946,"40km SW of Ferndale, California",5.72,20150128,21:08:53,-480.0,1063,-124.6066667,40.3178333,16.881,https://earthquake.usgs.gov/earthquakes/eventpage/nc72387946
+13,nc72282711,South Napa,6.02,20140824,10:20:44,-420.0,2750,-122.3123333,38.2151667,11.12,https://earthquake.usgs.gov/earthquakes/eventpage/nc72282711
+16,nc71996906,"10km WNW of Greenville, California",5.69,20130524,03:47:08,-420.0,1218,-121.0595,40.1918333,7.968,https://earthquake.usgs.gov/earthquakes/eventpage/nc71996906
+17,usp000jyce,Gulf of California,5.7,20130113,16:28:26,,511,-110.103,25.891,10.0,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jyce
+18,usp000jwyb,off the west coast of Baja California,6.3,20121214,10:36:01,,1071,-119.66,31.095,13.0,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jwyb
+19,usp000jtqn,Gulf of California,5.9,20121008,06:26:23,,550,-109.574,25.127,14.0,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jtqn
+22,nc71734741,Northern California,5.6,20120213,21:07:02,,1022,-123.7903333,41.1431667,27.358,https://earthquake.usgs.gov/earthquakes/eventpage/nc71734741
+23,usp000jadn,Oklahoma,5.7,20111106,03:53:10,,1190,-96.765,35.532,5.2,https://earthquake.usgs.gov/earthquakes/eventpage/usp000jadn
+24,se609212,"14km SSE of Louisa, Virginia",5.8,20110823,17:51:04,-300.0,1480,-77.9363333,37.9096667,6.0,https://earthquake.usgs.gov/earthquakes/eventpage/se609212
+25,usp000j5hr,Gulf of California,6.0,20110726,17:44:20,,561,-109.525,25.101,12.0,https://earthquake.usgs.gov/earthquakes/eventpage/usp000j5hr
+26,usp000hwfy,Gulf of California,5.6,20110312,13:25:59,,482,-109.82,25.209,12.6,https://earthquake.usgs.gov/earthquakes/eventpage/usp000hwfy
+27,ci14745580,"8km ESE of Ocotillo, CA",5.71,20100615,04:26:58,-480.0,1272,-115.9113333,32.705,8.756,https://earthquake.usgs.gov/earthquakes/eventpage/ci14745580
+30,nc71348851,"61km WSW of Ferndale, California",5.88,20100204,20:20:21,-480.0,1062,-124.9613333,40.4123333,23.048,https://earthquake.usgs.gov/earthquakes/eventpage/nc71348851
+31,nc71338066,offshore Northern California,6.5,20100110,00:27:39,,1360,-124.6925,40.652,28.737,https://earthquake.usgs.gov/earthquakes/eventpage/nc71338066
+36,usp000gzya,Gulf of California,5.5,20090803,17:55:22,,465,-112.997,28.904,10.0,https://earthquake.usgs.gov/earthquakes/eventpage/usp000gzya
+37,usp000gyws,Gulf of California,6.0,20090703,11:00:14,,562,-109.754,25.131,10.0,https://earthquake.usgs.gov/earthquakes/eventpage/usp000gyws
+38,usp000ge0q,Gulf of California,5.5,20080807,02:18:13,,465,-111.0,26.64,10.0,https://earthquake.usgs.gov/earthquakes/eventpage/usp000ge0q
+39,nn00234425,"8km ENE of Wells, Nevada",5.9,20080221,14:16:02,-480.0,1126,-114.8721,41.1444,7.9,https://earthquake.usgs.gov/earthquakes/eventpage/nn00234425
+40,usp000f6m4,Gulf of California,6.0,20070313,02:59:04,,562,-110.537,26.261,26.1,https://earthquake.usgs.gov/earthquakes/eventpage/usp000f6m4
+41,usp000f5m5,Gulf of California,5.9,20070225,15:00:41,,536,-110.421,26.146,10.0,https://earthquake.usgs.gov/earthquakes/eventpage/usp000f5m5
+44,usp000e7jp,Gulf of California,6.6,20060104,08:32:32,,732,-112.117,28.164,14.0,https://earthquake.usgs.gov/earthquakes/eventpage/usp000e7jp
+45,usp000dvxx,western Montana,5.6,20050726,04:08:37,,1112,-112.615,45.365,12.9,https://earthquake.usgs.gov/earthquakes/eventpage/usp000dvxx
+46,usp000dgrs,Gulf of California,5.6,20050222,19:15:49,,484,-109.97,25.669,10.0,https://earthquake.usgs.gov/earthquakes/eventpage/usp000dgrs
+47,nc30228270,"18km N of Shandon, California",5.97,20040928,17:15:24,-480.0,1340,-120.366,35.8181667,8.136,https://earthquake.usgs.gov/earthquakes/eventpage/nc30228270
+48,usp000d4zn,Gulf of California,5.9,20040924,14:43:11,,536,-112.725,28.565,10.0,https://earthquake.usgs.gov/earthquakes/eventpage/usp000d4zn
+49,nc21323712,Central California,6.5,20031222,19:15:56,,1500,-121.1005,35.7005,8.382,https://earthquake.usgs.gov/earthquakes/eventpage/nc21323712
+51,usp000bv7v,Gulf of California,5.5,20030415,08:21:17,,465,-109.429,25.031,10.0,https://earthquake.usgs.gov/earthquakes/eventpage/usp000bv7v
+52,usp000bshh,Gulf of California,6.4,20030312,23:41:32,,630,-110.587,26.556,10.0,https://earthquake.usgs.gov/earthquakes/eventpage/usp000bshh
+55,uw10530748,"Puget Sound region, Washington",6.8,20010228,18:54:32,,1461,-122.7266667,47.149,51.798,https://earthquake.usgs.gov/earthquakes/eventpage/uw10530748
+56,usp0009q39,Gulf of California,5.6,20000324,04:23:45,,482,-111.303,27.551,10.0,https://earthquake.usgs.gov/earthquakes/eventpage/usp0009q39
+57,ci10180015,"7km ENE of Running Springs, CA",5.6,19991016,09:59:38,,482,-117.04,34.24,6.0,https://earthquake.usgs.gov/earthquakes/eventpage/ci10180015
+58,ci3320848,"13km WSW of Ludlow, CA",5.77,19991016,09:59:35,,512,-116.2895,34.6781667,13.906,https://earthquake.usgs.gov/earthquakes/eventpage/ci3320848
+59,ci9108652,"16km SW of Ludlow, CA",7.1,19991016,09:46:44,,1576,-116.265,34.6033333,13.73,https://earthquake.usgs.gov/earthquakes/eventpage/ci9108652
+60,ci9098566,"64km SSE of Tonopah, Nevada",5.94,19990801,16:06:20,,543,-116.968,37.53,6.037,https://earthquake.usgs.gov/earthquakes/eventpage/ci9098566
+61,uw10474303,"Olympic Peninsula, Washington",5.8,19990703,01:43:54,,518,-123.4636667,47.074,40.014,https://earthquake.usgs.gov/earthquakes/eventpage/uw10474303
+62,nc21014765,Central California,5.5,19990515,13:22:10,,465,-118.8171667,37.5296667,2.934,https://earthquake.usgs.gov/earthquakes/eventpage/nc21014765
+63,nc492079,offshore Northern California,5.6,19970122,07:17:16,,482,-124.3791667,40.2736667,23.007,https://earthquake.usgs.gov/earthquakes/eventpage/nc492079
+64,usp0007qtt,Gulf of California,5.5,19961001,19:09:03,,465,-110.862,26.475,10.0,https://earthquake.usgs.gov/earthquakes/eventpage/usp0007qtt
+65,usp0007ezf,Gulf of California,5.8,19960319,15:31:36,,518,-109.329,25.006,10.0,https://earthquake.usgs.gov/earthquakes/eventpage/usp0007ezf
+66,ci3231786,"16km NNE of Ridgecrest, California",5.75,19950920,23:27:36,,509,-117.638,35.761,4.688,https://earthquake.usgs.gov/earthquakes/eventpage/ci3231786
+67,usp00072k0,Gulf of California,6.6,19950828,10:46:12,,670,-110.284,26.092,12.2,https://earthquake.usgs.gov/earthquakes/eventpage/usp00072k0
+68,usp0006vmm,western Texas,5.7,19950414,00:32:56,,500,-103.347,30.285,17.8,https://earthquake.usgs.gov/earthquakes/eventpage/usp0006vmm
+69,ci3184133,"11km SE of Gardnerville Ranchos, Nevada",5.7,19940912,12:23:43,,500,-119.652,38.819,11.629,https://earthquake.usgs.gov/earthquakes/eventpage/ci3184133
+70,usp0006ce8,Gulf of California,5.6,19940512,00:22:23,,482,-109.294,25.068,10.0,https://earthquake.usgs.gov/earthquakes/eventpage/usp0006ce8
+71,usp00067xb,Wyoming,5.8,19940203,09:05:04,,518,-110.976,42.762,7.9,https://earthquake.usgs.gov/earthquakes/eventpage/usp00067xb
+72,ci3141273,"7km NNE of Simi Valley, California",5.58,19940117,23:33:30,,479,-118.698,34.326,9.083,https://earthquake.usgs.gov/earthquakes/eventpage/ci3141273
+73,ci3149646,"1km ENE of Granada Hills, California",5.89,19940117,12:31:58,,534,-118.493,34.275,5.317,https://earthquake.usgs.gov/earthquakes/eventpage/ci3149646
+74,ci3144585,"1km NNW of Reseda, CA",6.7,19940117,12:30:55,,1551,-118.537,34.213,18.202,https://earthquake.usgs.gov/earthquakes/eventpage/ci3144585
+75,uw10313838,Oregon,6.0,19930921,05:45:35,,554,-122.0583333,42.3575,8.53,https://earthquake.usgs.gov/earthquakes/eventpage/uw10313838
+76,uw10313718,Oregon,5.9,19930921,03:28:55,,536,-122.0266667,42.3161667,8.56,https://earthquake.usgs.gov/earthquakes/eventpage/uw10313718
+77,ci3105173,"46km E of Big Pine, California",6.1,19930517,23:20:50,,572,-117.774,37.165,3.599,https://earthquake.usgs.gov/earthquakes/eventpage/ci3105173
+78,uw10306313,Oregon,5.6,19930325,13:34:35,,482,-122.6065,45.0351667,19.608,https://earthquake.usgs.gov/earthquakes/eventpage/uw10306313
+80,ci3059028,"63km ENE of Mesquite, Nevada",5.6,19920902,10:26:20,,488,-113.472,37.09,13.739,https://earthquake.usgs.gov/earthquakes/eventpage/ci3059028
+81,uu50067050,Utah,5.93,19920902,10:26:20,,541,-113.4971667,37.0998333,13.91,https://earthquake.usgs.gov/earthquakes/eventpage/uu50067050
+82,ci3041390,"12km NW of California City, California",5.67,19920711,18:14:16,,495,-118.067,35.21,9.564,https://earthquake.usgs.gov/earthquakes/eventpage/ci3041390
+83,ci3031935,"3km ESE of Yucca Valley, California",5.69,19920629,14:08:37,-480.0,498,-116.403,34.105,9.649,https://earthquake.usgs.gov/earthquakes/eventpage/ci3031935
+84,ci3031425,"7km SSE of Big Bear City, CA",6.3,19920628,15:05:30,,841,-116.827,34.203,3.634,https://earthquake.usgs.gov/earthquakes/eventpage/ci3031425
+85,ci2057008,"11km SSE of Big Bear Lake, California",5.53,19920628,14:43:21,,470,-116.852,34.162,9.615,https://earthquake.usgs.gov/earthquakes/eventpage/ci2057008
+86,ci3043630,"2km SSW of Joshua Tree, California",5.7,19920628,12:01:16,,500,-116.323,34.12,5.706,https://earthquake.usgs.gov/earthquakes/eventpage/ci3043630
+87,ci3043549,"3km NE of Yucca Valley, California",5.77,19920628,12:00:45,,512,-116.408,34.131,-1.1,https://earthquake.usgs.gov/earthquakes/eventpage/ci3043549
+88,ci3031111,"Landers, California Earthquake",7.3,19920628,11:57:34,-480.0,1480,-116.437,34.2,-0.097,https://earthquake.usgs.gov/earthquakes/eventpage/ci3031111
+89,nc268078,offshore Northern California,6.57,19920426,11:18:25,,664,-124.555,40.3828333,21.713,https://earthquake.usgs.gov/earthquakes/eventpage/nc268078
+90,nc268031,offshore Northern California,6.45,19920426,07:41:40,,640,-124.566,40.4325,18.824,https://earthquake.usgs.gov/earthquakes/eventpage/nc268031
+91,nc269151,"20km SSW of Rio Dell, California",7.2,19920425,18:06:05,-480.0,798,-124.2286667,40.3353333,9.856,https://earthquake.usgs.gov/earthquakes/eventpage/nc269151
+92,ci3019681,"17km NNE of Thousand Palms, California",6.1,19920423,04:50:23,,572,-116.317,33.96,11.629,https://earthquake.usgs.gov/earthquakes/eventpage/ci3019681
+93,usp00050yv,Gulf of California,5.6,19911226,00:22:18,,482,-109.693,25.307,10.0,https://earthquake.usgs.gov/earthquakes/eventpage/usp00050yv
+94,nc228027,Northern California,6.0,19910817,19:29:40,,554,-124.2858333,40.2516667,8.32,https://earthquake.usgs.gov/earthquakes/eventpage/nc228027
+95,ci2021449,"13km NNE of Sierra Madre, CA",5.8,19910628,14:43:54,,636,-117.993,34.27,8.049,https://earthquake.usgs.gov/earthquakes/eventpage/ci2021449
+96,nc20092556,Central California,5.8,19901024,06:15:19,,518,-119.1191667,38.0618333,10.903,https://earthquake.usgs.gov/earthquakes/eventpage/nc20092556
+97,ci1053635,"6km NNE of Claremont, CA",5.51,19900228,23:43:36,,467,-117.697,34.144,3.292,https://earthquake.usgs.gov/earthquakes/eventpage/ci1053635
