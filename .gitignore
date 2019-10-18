@@ -2,6 +2,10 @@
 Records.csv
 RecordsByStation.csv
 
+#Don't commit DataFiles and Pivot Tables
+EarthquakeListToAnalysis/DataFiles/*
+EarthquakeListToAnalysis/PivotTables/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
